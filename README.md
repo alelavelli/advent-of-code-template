@@ -26,4 +26,4 @@ fn solve_pt2(_puzzle_input: String) -> Result<String, Box<dyn Error>> {
     todo!()
 }
 ```
-Test module allow to test the functions with the example file provided by the problem instructions.
+Test module allows to test the functions with the example file provided by the problem instructions.
